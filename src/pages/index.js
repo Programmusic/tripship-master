@@ -9,11 +9,13 @@ const IndexPage = () => (
     <h1>AHOY ME HEARTIES</h1>
     <p>Welcome aboard this most exciting ship.</p>
     <p>We love our customers!</p>
+
     <Link to="/crew/">Crew</Link>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
+    <Link to="/flystyle">Captain's Cabin</Link>
     </div>
-   
+
   </Layout>
 )
 

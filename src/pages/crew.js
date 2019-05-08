@@ -24,9 +24,9 @@ export default () => (
       username="Captain Flystyle"
       avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYcY0h0Bq3n1Far5RLDBrTc5FI-HDauAZR4YU2BjysBMl0tIUIQ"
       excerpt="wheelin'n'dealin."
-    
+
     />
-    
+
 <Link to="/flystyle">Visit the Captain's Cabin</Link>
     <User
       username="B Mello"
